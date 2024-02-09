@@ -482,10 +482,13 @@ Desideriamo ringraziare il team di sviluppo per il loro impegno e dedizione nel 
 Per contribuire al progetto, ricevere informazioni o segnalare bug fare riferimento ai seguenti link:
 
 
+
 | Issues Repository GitHub                        | Email Aziendale                  | Email Privata                  |
 |------------------------------------------|---------------------------------|--------------------------------|
-| [Repository](https://github.com/pub) | gestionale.dev@gmail.com                | redakarimi76@gmail.com                        |
+| [Repository](https://github.com/vittorioPiotti/Gestionale) | gestionale.dev@gmail.com                | redakarimi76@gmail.com                        |
 |  |                |                           vittoriopiotti.vp@gmail.com     |
+
+
 
 ![Contatto](https://img.shields.io/badge/Contatto-Email%20%7C%20GitHub-blue)
 
