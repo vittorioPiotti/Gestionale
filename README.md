@@ -71,9 +71,9 @@ Il progetto è stato completato con successo ed è in uno stato stabile. Tutte l
 ## 3. Installazione:
 
 Per installare il progetto, è necessario avere installati i seguenti componenti:
-- [NodeJS](https://nodejs.org/en/download) e la libreria di React per il frontend
-- [.NET](https://dotnet.microsoft.com/en-us/download) Core per il backend
-- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms) e [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) per il database
+- [NodeJS `v20.11.0`](https://nodejs.org/en/download) e la libreria di React per il frontend
+- [.NET `v8.0`](https://dotnet.microsoft.com/en-us/download) Core per il backend
+- [SQL Server Management Studio (SSMS) `v19.3`](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms) e [Microsoft SQL Server `SQL Server 2022`](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) per il database
 
 >[!NOTE]
 >
