@@ -485,7 +485,7 @@ Per contribuire al progetto, ricevere informazioni o segnalare bug fare riferime
 
 | Issues Repository GitHub                        | Email Aziendale                  | Email Privata                  |
 |------------------------------------------|---------------------------------|--------------------------------|
-| [Repository](https://github.com/vittorioPiotti/Gestionale) | gestionale.dev@gmail.com                | redakarimi76@gmail.com                        |
+| [Repository](https://github.com/vittorioPiotti/Gestionale/issues) | gestionale.dev@gmail.com                | redakarimi76@gmail.com                        |
 |  |                |                           vittoriopiotti.vp@gmail.com     |
 
 
