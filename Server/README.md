@@ -300,7 +300,9 @@ Il backend gestisce le eccezioni in modo appropriato, restituendo codici di stat
 - **`404` (Not Found):** Impossibile accedere al server. La risorsa richiesta non è stata trovata.
 - **`500` (Internal Server Error):** Si è verificato un errore interno.
 
-<a id="AutenticazioneUtente"></a>#### Autenticazione Utente
+<a id="AutenticazioneUtente"></a>
+
+#### Autenticazione Utente
 
 - **`405` (Method Not Allowed):** Risposta in caso la password fornita non è corretta.
 - **`409` (Conflict):** Risposta in caso l'utente non esista nel sistema.
