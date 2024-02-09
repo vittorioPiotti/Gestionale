@@ -482,8 +482,8 @@ Istruzioni su come avviare il frontend in modalità di sviluppo locale, con even
 ---
 
 ### Prerequisiti:
-1. **Node.js** installato sul sistema.
-2. Gestore di pacchetti **npm** o **yarn**.
+1. **Node.js `v20.11.0`** installato sul sistema.
+2. Gestore di pacchetti **npm `v10.3.0`** o **yarn `v4.1.0`**.
 
 
 ### Istruzioni:
