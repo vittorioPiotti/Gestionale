@@ -502,7 +502,7 @@ Grazie ancora a tutti coloro che hanno reso possibile il successo di questo prog
 ![Supporto](https://img.shields.io/badge/Supporto-Community%20%7C%20Aziendale-green)
 
 > [!NOTE]
-> Consultare il [readme](../) per ulteriori informazioni.
+> Consultare il [README globale del progetto](../) per ulteriori informazioni.
 
 ![Download](https://img.shields.io/badge/Download-0%2B-blue)
 
