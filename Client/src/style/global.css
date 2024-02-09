@@ -1,0 +1,35 @@
+body{
+    background-color: #daf5ff;
+}
+
+
+.centered {
+    padding: 20px;
+    margin: auto;
+    width: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg-form{
+    background-color: white;
+
+}
+
+::-webkit-scrollbar {
+    width: 12px; /* Larghezza della barra di scorrimento */
+    
+  }
+  
+::-webkit-scrollbar-thumb {
+    background-color: #d8d8d8; /* Colore della barra di scorrimento */
+    border-radius: 4px; /* Arrotondamento dell'angolo inferiore destro */
+}
+
+.label-style{
+    width:130px;
+    display: flex; /* Abilita il layout flessibile */
+    justify-content: flex-start;
+}

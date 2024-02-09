@@ -1,0 +1,41 @@
+
+
+.btn-registra-cliente{
+  margin-bottom: 40px;
+
+}
+
+.form-registra-cliente {
+
+    max-width: 700px;
+    overflow-y: auto;
+    height:90%;
+    max-height:900px;
+
+  }
+  @media screen and (max-width: 570px) {
+    .form-item-custom {
+      margin-bottom: 0;
+      
+    }
+    .title-registra-cliente{
+      margin-bottom: 0px;
+    }
+  }
+
+  @media screen and (min-width: 571px) {
+    .form-registra-cliente {
+
+      max-width: 700px;
+      overflow-y: auto;
+      height:90%;
+      max-height:770px;
+  
+    }
+  
+  }
+  
+  .title-registra-cliente{
+    margin-bottom: 250px;
+  }
+
