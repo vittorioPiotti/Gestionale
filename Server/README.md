@@ -27,10 +27,10 @@ La documentazione seguente fornisce una panoramica dettagliata del backend dell'
 
 Il backend utilizza diverse tecnologie per implementare le sue funzionalità:
 
-- <a id="asp-net-core"></a>[**ASP.NET Core:**](https://dotnet.microsoft.com/apps/aspnet) È il framework utilizzato per lo sviluppo dell'applicazione web.
-- <a id="entity-framework-core"></a>[**Entity Framework Core:**](https://docs.microsoft.com/en-us/ef/core/) È un ORM (Object-Relational Mapping) utilizzato per interagire con il database relazionale.
-- <a id="microsoft-sql-server"></a>[**Microsoft SQL Server:**]( https://www.microsoft.com/en-us/sql-server)  È il database relazionale utilizzato per memorizzare i dati dell'applicazione.
-- <a id="dotnetenv"></a>[**DotNetEnv:**](https://github.com/tonerdo/dotnet-env) È una libreria utilizzata per caricare le variabili d'ambiente da un file .env. Questa libreria è stata utilizzata per la configurazione del server e del database, permettendo di impostare come variabili globali i dati necessari al setup e all'avvio di entrambi. Ciò consente una gestione efficiente e flessibile delle configurazioni di ambiente nel backend.
+- <a id="asp-net-core"></a>[**ASP.NET Core:**](https://dotnet.microsoft.com/apps/aspnet) `Microsoft.AspNetCore.Components.Web.Extensions: v5.0.0-preview9.20513.1` È il framework utilizzato per lo sviluppo dell'applicazione web.
+- <a id="entity-framework-core"></a>[**Entity Framework Core:**](https://docs.microsoft.com/en-us/ef/core/) `Microsoft.EntityFrameworkCore: v8.0.1` `Microsoft.EntityFrameworkCore.SqlServer: v8.0.1` È un ORM (Object-Relational Mapping) utilizzato per interagire con il database relazionale.
+- <a id="microsoft-sql-server"></a>[**Microsoft SQL Server:**]( https://www.microsoft.com/en-us/sql-server)  `SQL Server 2022` È il database relazionale utilizzato per memorizzare i dati dell'applicazione.
+- <a id="dotnetenv"></a>[**DotNetEnv:**](https://github.com/tonerdo/dotnet-env) `v3.0.0` È una libreria utilizzata per caricare le variabili d'ambiente da un file .env. Questa libreria è stata utilizzata per la configurazione del server e del database, permettendo di impostare come variabili globali i dati necessari al setup e all'avvio di entrambi. Ciò consente una gestione efficiente e flessibile delle configurazioni di ambiente nel backend.
 
 
 ![Tecnologia](https://img.shields.io/badge/Tecnologia-C%23%20%7C%20SMSS%20%7C%20SQL%20Server-blue)
