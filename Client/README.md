@@ -80,7 +80,7 @@ Il frontend del progetto utilizza una serie di tecnologie per lo sviluppo dell'i
 
 - <a id="WebVitals"></a>**[Web Vitals](https://web.dev/vitals/) `v2.1.4`**: Web Vitals è una libreria utilizzata per misurare le prestazioni web. Fornisce metriche standard per valutare la velocità di caricamento, la reattività e l'esperienza utente complessiva del sito web.
 
-- <a id="TestingLibrary"></a>**[Testing Library](https://testing-library.com/) `/jest-dom:  v5.17.0` `/react: v13.4.0` `/user-event: v13.5.00**: Testing Library è una libreria utilizzata per i test unitari e di integrazione nell'ambiente di sviluppo React. Fornisce un'API semplice e intuitiva per testare i componenti React e le loro interazioni con l'utente.
+- <a id="TestingLibrary"></a>**[Testing Library](https://testing-library.com/) `/jest-dom:  v5.17.0` `/react: v13.4.0` `/user-event: v13.5.00`**: Testing Library è una libreria utilizzata per i test unitari e di integrazione nell'ambiente di sviluppo React. Fornisce un'API semplice e intuitiva per testare i componenti React e le loro interazioni con l'utente.
 
 - <a id="ESLint"></a>**[ESLint](https://eslint.org/) `v8.56.0`**: ESLint è uno strumento utilizzato per il linting del codice JavaScript e React. Aiuta a identificare e correggere gli errori nel codice, nonché a mantenere uno stile di codifica uniforme all'interno del progetto.
 
