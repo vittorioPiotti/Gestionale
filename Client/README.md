@@ -62,29 +62,29 @@ Gli utenti possono visualizzare in modo massivo o nel dettaglio le anagrafiche d
 
 Il frontend del progetto utilizza una serie di tecnologie per lo sviluppo dell'interfaccia utente e la gestione delle dipendenze. Di seguito sono elencate le principali tecnologie utilizzate:
 
-- <a id="React"></a>**[React](https://reactjs.org/)**: React è il framework JavaScript utilizzato per lo sviluppo dell'interfaccia utente rendendo più semplice la gestione dello stato e il rendering dinamico dei dati.
+- <a id="React"></a>**[React](https://reactjs.org/) `v18.2.0`**: React è il framework JavaScript utilizzato per lo sviluppo dell'interfaccia utente rendendo più semplice la gestione dello stato e il rendering dinamico dei dati.
 
-- <a id="ReactDOM"></a>**[React DOM](https://reactjs.org/docs/react-dom.html)**: React DOM è una libreria utilizzata per il rendering di React all'interno del DOM del browser. Questa libreria è responsabile della manipolazione del DOM e dell'aggiornamento dell'interfaccia utente in base allo stato dell'applicazione.
+- <a id="ReactDOM"></a>**[React DOM](https://reactjs.org/docs/react-dom.html) `v18.2.0`**: React DOM è una libreria utilizzata per il rendering di React all'interno del DOM del browser. Questa libreria è responsabile della manipolazione del DOM e dell'aggiornamento dell'interfaccia utente in base allo stato dell'applicazione.
 
-- <a id="ReactRouterDOM"></a>**[React Router DOM](https://reactrouter.com/en/6.22.0)**: React Router DOM è una libreria utilizzata per gestire il routing dell'applicazione React. Permette di definire rotte all'interno dell'applicazione e di associare componenti React a percorsi specifici.
+- <a id="ReactRouterDOM"></a>**[React Router DOM](https://reactrouter.com/en/6.22.0) `v18.2.0`**: React Router DOM è una libreria utilizzata per gestire il routing dell'applicazione React. Permette di definire rotte all'interno dell'applicazione e di associare componenti React a percorsi specifici.
 
-- <a id="AntDesign"></a>**[Ant Design](https://ant.design/)**: Ant Design è una libreria di componenti UI per React. Offre una vasta gamma di componenti predefiniti pronti per l'uso, che facilitano la creazione di un'interfaccia utente intuitiva e ben progettata.
+- <a id="AntDesign"></a>**[Ant Design](https://ant.design/) `v5.13.3`**: Ant Design è una libreria di componenti UI per React. Offre una vasta gamma di componenti predefiniti pronti per l'uso, che facilitano la creazione di un'interfaccia utente intuitiva e ben progettata.
 
-- <a id="Axios"></a>**[Axios](https://axios-http.com/)**: Axios è una libreria utilizzata per effettuare richieste HTTP dall'applicazione frontend al backend. Fornisce un'interfaccia semplice e intuitiva per l'invio e la gestione delle richieste e delle risposte HTTP.
+- <a id="Axios"></a>**[Axios](https://axios-http.com/) `v1.6.7`**: Axios è una libreria utilizzata per effettuare richieste HTTP dall'applicazione frontend al backend. Fornisce un'interfaccia semplice e intuitiva per l'invio e la gestione delle richieste e delle risposte HTTP.
 
-- <a id="ReactToastify"></a>**[React Toastify](https://github.com/fkhadra/react-toastify)**: React Toastify è una libreria utilizzata per mostrare notifiche toast nell'applicazione React. Queste notifiche sono utili per informare gli utenti su eventi importanti o messaggi di errore senza interrompere l'esperienza utente.
+- <a id="ReactToastify"></a>**[React Toastify](https://github.com/fkhadra/react-toastify) `v10.0.4`**: React Toastify è una libreria utilizzata per mostrare notifiche toast nell'applicazione React. Queste notifiche sono utili per informare gli utenti su eventi importanti o messaggi di errore senza interrompere l'esperienza utente.
 
-- <a id="Sha3"></a>**[Sha3](https://www.npmjs.com/package/sha3)**: Sha3 è una libreria utilizzata per calcolare l'hash SHA-3 delle stringhe. Questa libreria è utile per la crittografia e la sicurezza dei dati all'interno dell'applicazione.
+- <a id="Sha3"></a>**[Sha3](https://www.npmjs.com/package/sha3) `v2.1.4`**: Sha3 è una libreria utilizzata per calcolare l'hash SHA-3 delle stringhe. Questa libreria è utile per la crittografia e la sicurezza dei dati all'interno dell'applicazione.
 
-- <a id="Bootstrap"></a>**[Bootstrap](https://getbootstrap.com/)**: Bootstrap è un framework CSS utilizzato per la progettazione e lo stile dell'interfaccia utente. Offre una serie di componenti UI predefiniti, griglie responsive e stili CSS pronti per l'uso, che semplificano la creazione di un'interfaccia utente accattivante e moderna.
+- <a id="Bootstrap"></a>**[Bootstrap](https://getbootstrap.com/) `v5.3.2`**: Bootstrap è un framework CSS utilizzato per la progettazione e lo stile dell'interfaccia utente. Offre una serie di componenti UI predefiniti, griglie responsive e stili CSS pronti per l'uso, che semplificano la creazione di un'interfaccia utente accattivante e moderna.
 
-- <a id="WebVitals"></a>**[Web Vitals](https://web.dev/vitals/)**: Web Vitals è una libreria utilizzata per misurare le prestazioni web. Fornisce metriche standard per valutare la velocità di caricamento, la reattività e l'esperienza utente complessiva del sito web.
+- <a id="WebVitals"></a>**[Web Vitals](https://web.dev/vitals/) `v2.1.4`**: Web Vitals è una libreria utilizzata per misurare le prestazioni web. Fornisce metriche standard per valutare la velocità di caricamento, la reattività e l'esperienza utente complessiva del sito web.
 
-- <a id="TestingLibrary"></a>**[Testing Library](https://testing-library.com/)**: Testing Library è una libreria utilizzata per i test unitari e di integrazione nell'ambiente di sviluppo React. Fornisce un'API semplice e intuitiva per testare i componenti React e le loro interazioni con l'utente.
+- <a id="TestingLibrary"></a>**[Testing Library](https://testing-library.com/) `/jest-dom:  v5.17.0` `/react: v13.4.0` `/user-event: v13.5.00**: Testing Library è una libreria utilizzata per i test unitari e di integrazione nell'ambiente di sviluppo React. Fornisce un'API semplice e intuitiva per testare i componenti React e le loro interazioni con l'utente.
 
-- <a id="ESLint"></a>**[ESLint](https://eslint.org/)**: ESLint è uno strumento utilizzato per il linting del codice JavaScript e React. Aiuta a identificare e correggere gli errori nel codice, nonché a mantenere uno stile di codifica uniforme all'interno del progetto.
+- <a id="ESLint"></a>**[ESLint](https://eslint.org/) `v8.56.0`**: ESLint è uno strumento utilizzato per il linting del codice JavaScript e React. Aiuta a identificare e correggere gli errori nel codice, nonché a mantenere uno stile di codifica uniforme all'interno del progetto.
 
-- <a id="Dotenv"></a>**[Dotenv](https://www.npmjs.com/package/dotenv)**: Questa libreria è essenziale per gestire variabili d'ambiente nelle applicazioni Node.js. Consente di definire e caricare in modo sicuro le configurazioni sensibili, come indirizzi IP e porte di connessione, tramite file di configurazione separati. Ciò aumenta la sicurezza eliminando l'esposizione diretta di tali informazioni sensibili nel codice sorgente, garantendo al contempo una maggiore flessibilità nell'adattare l'ambiente di sviluppo e produzione dell'applicazione.
+- <a id="Dotenv"></a>**[Dotenv](https://www.npmjs.com/package/dotenv) `v16.4.1`**: Questa libreria è essenziale per gestire variabili d'ambiente nelle applicazioni Node.js. Consente di definire e caricare in modo sicuro le configurazioni sensibili, come indirizzi IP e porte di connessione, tramite file di configurazione separati. Ciò aumenta la sicurezza eliminando l'esposizione diretta di tali informazioni sensibili nel codice sorgente, garantendo al contempo una maggiore flessibilità nell'adattare l'ambiente di sviluppo e produzione dell'applicazione.
 
 
 
