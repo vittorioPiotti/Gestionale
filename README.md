@@ -167,7 +167,7 @@ Lo stato della build è riuscito e stabile.
 Questo README fornisce una panoramica del progetto Gestionale, comprese le istruzioni per l'installazione, l'utilizzo, il contributo e il contatto con i gestori del backend e del frontend. 
 
 >[!NOTE]
->
+> 
 >Assicurati di consultare la [documentazione](#5-documentazione) dettagliata per informazioni più approfondite.
 
 ![Download](https://img.shields.io/badge/Download-0%2B-blue)
